@@ -1,0 +1,182 @@
+[
+  {
+    "name": "Amanda Clark",
+    "background": "Emergency room nurse",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/e/e0/US1_Amanda_Clark.webp/revision/latest?cb=20230330074543"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Anjelica Conti",
+    "background": "Hair stylist",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/3/3a/US1_Anjelica_Conti.webp/revision/latest?cb=20230330074544"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Andie Thurmond",
+    "background": "Director of Music Services",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/7/74/US1_Andie_Thurmond.webp/revision/latest?cb=20230330074544"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Arie Luyendyk Jr.",
+    "background": "Bachelor, Nascar",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/a/a0/US1_Arie_Luyendyk_Jr..webp/revision/latest?cb=20230330074545"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Azra Valani",
+    "background": "Miss World Canada finalist",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/d/d8/US1_Azra_Valani.webp/revision/latest?cb=20230330074545"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Brandi Glanville",
+    "background": "Real Housewives",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/9/99/US1_Brandi_Glanville.webp/revision/latest?cb=20230330074545"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Christian de la Torre",
+    "background": "Veteran, adventurer and actor",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/d/df/US1_Christian_de_la_Torre.webp/revision/latest?cb=20230330074546"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Cirie Fields",
+    "background": "Survivor",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/8/8f/US1_Cirie_Fields.webp/revision/latest?cb=20230330074546"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Cody Calafiore",
+    "background": "Big Brother",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/9/9c/US1_Cody_Calafiore.webp/revision/latest?cb=20230330074546"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Geraldine Moreno",
+    "background": "Actress and content creator",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/8/84/US1_Geraldine_Moreno.webp/revision/latest?cb=20230330074546"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Kate Chastain",
+    "background": "Below Deck",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/9/95/US2_Kate_Chastain.webp/revision/latest?cb=20240115000602"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Kyle Cooke",
+    "background": "Summer House",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/9/9b/US1_Kyle_Cooke.webp/revision/latest?cb=20230330074546"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Michael Davidson",
+    "background": "DMV office manager",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/2/2b/US1_Michael_Davidson.webp/revision/latest?cb=20230330074546"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Quentin Jiles",
+    "background": "Political analyst and podcaster",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/7/7b/US1_Quentin_Jiles.webp/revision/latest?cb=20230330074546"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Rachel Reilly",
+    "background": "Reality TV competitor and host",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/e/e3/US1_Rachel_Reilly.webp/revision/latest?cb=20230330074546"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Reza Farahan",
+    "background": "Shahs of Sunset",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/7/7d/US1_Reza_Farahan.webp/revision/latest?cb=20230330074547"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Robert \"Bam\" Nieves",
+    "background": "Tech sales executive",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/3/31/US1_Bam_Nieves.webp/revision/latest?cb=20230330074545"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Ryan Lochte",
+    "background": "Olympic swimmer",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/7/79/US1_Ryan_Lochte.webp/revision/latest?cb=20230330074547"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Shelbe Rodriguez",
+    "background": "Public affairs manager",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/3/3d/US1_Shelbe_Rodriguez.webp/revision/latest?cb=20230330074547"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  },
+  {
+    "name": "Stephenie LaGrossa",
+    "background": "Survivor",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/4/46/US1_Stephenie_LaGrossa_Kendrick.webp/revision/latest?cb=20230330074546"
+    },
+    "is_traitor": false,
+    "eliminated": 0
+  }
+]
