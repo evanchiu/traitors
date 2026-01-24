@@ -6,7 +6,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/e/e0/US1_Amanda_Clark.webp/revision/latest?cb=20230330074543"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Anjelica Conti",
@@ -15,7 +16,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/3/3a/US1_Anjelica_Conti.webp/revision/latest?cb=20230330074544"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Andie Thurmond",
@@ -24,7 +26,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/7/74/US1_Andie_Thurmond.webp/revision/latest?cb=20230330074544"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Arie Luyendyk Jr.",
@@ -33,16 +36,18 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/a/a0/US1_Arie_Luyendyk_Jr..webp/revision/latest?cb=20230330074545"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Azra Valani",
-    "background": "Miss World Canada finalist",
+    "background": "Yoga Instructor",
     "images": {
       "large": "https://static.wikia.nocookie.net/thetraitors/images/d/d8/US1_Azra_Valani.webp/revision/latest?cb=20230330074545"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Brandi Glanville",
@@ -51,7 +56,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/9/99/US1_Brandi_Glanville.webp/revision/latest?cb=20230330074545"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 4,
+    "murdered": false
   },
   {
     "name": "Christian de la Torre",
@@ -59,8 +65,9 @@
     "images": {
       "large": "https://static.wikia.nocookie.net/thetraitors/images/d/df/US1_Christian_de_la_Torre.webp/revision/latest?cb=20230330074546"
     },
-    "is_traitor": false,
-    "eliminated": 0
+    "is_traitor": true,
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Cirie Fields",
@@ -68,8 +75,9 @@
     "images": {
       "large": "https://static.wikia.nocookie.net/thetraitors/images/8/8f/US1_Cirie_Fields.webp/revision/latest?cb=20230330074546"
     },
-    "is_traitor": false,
-    "eliminated": 0
+    "is_traitor": true,
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Cody Calafiore",
@@ -77,8 +85,9 @@
     "images": {
       "large": "https://static.wikia.nocookie.net/thetraitors/images/9/9c/US1_Cody_Calafiore.webp/revision/latest?cb=20230330074546"
     },
-    "is_traitor": false,
-    "eliminated": 0
+    "is_traitor": true,
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Geraldine Moreno",
@@ -87,7 +96,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/8/84/US1_Geraldine_Moreno.webp/revision/latest?cb=20230330074546"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 2,
+    "murdered": false
   },
   {
     "name": "Kate Chastain",
@@ -96,7 +106,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/9/95/US2_Kate_Chastain.webp/revision/latest?cb=20240115000602"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Kyle Cooke",
@@ -105,7 +116,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/9/9b/US1_Kyle_Cooke.webp/revision/latest?cb=20230330074546"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Michael Davidson",
@@ -114,7 +126,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/2/2b/US1_Michael_Davidson.webp/revision/latest?cb=20230330074546"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Quentin Jiles",
@@ -123,7 +136,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/7/7b/US1_Quentin_Jiles.webp/revision/latest?cb=20230330074546"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Rachel Reilly",
@@ -132,7 +146,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/e/e3/US1_Rachel_Reilly.webp/revision/latest?cb=20230330074546"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Reza Farahan",
@@ -141,7 +156,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/7/7d/US1_Reza_Farahan.webp/revision/latest?cb=20230330074547"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 1,
+    "murdered": true
   },
   {
     "name": "Robert \"Bam\" Nieves",
@@ -150,7 +166,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/3/31/US1_Bam_Nieves.webp/revision/latest?cb=20230330074545"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 3,
+    "murdered": true
   },
   {
     "name": "Ryan Lochte",
@@ -159,7 +176,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/7/79/US1_Ryan_Lochte.webp/revision/latest?cb=20230330074547"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Shelbe Rodriguez",
@@ -168,7 +186,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/3/3d/US1_Shelbe_Rodriguez.webp/revision/latest?cb=20230330074547"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   },
   {
     "name": "Stephenie LaGrossa",
@@ -177,6 +196,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/4/46/US1_Stephenie_LaGrossa_Kendrick.webp/revision/latest?cb=20230330074546"
     },
     "is_traitor": false,
-    "eliminated": 0
+    "eliminated": 0,
+    "murdered": false
   }
 ]
