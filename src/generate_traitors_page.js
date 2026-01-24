@@ -98,12 +98,15 @@ const rows = data.map(person => {
   // New schema: person.is_traitor (boolean) and person.eliminated (integer; 0 = still in game)
   const eliminatedNum = Number((person && typeof person.eliminated !== 'undefined') ? person.eliminated : 0)
   let statusClass = ''
-  if (eliminatedNum > 0) statusClass = 'status-eliminated'
+  if (eliminatedNum > 0 && person.is_traitor) statusClass = 'status-eliminated-traitor'
+  else if (eliminatedNum > 0) statusClass = 'status-eliminated'
   else if (person && person.is_traitor) statusClass = 'status-traitor'
   else statusClass = 'status-alive'
 
+  const eliminatedStyle = person.murdered ? "murdered" : "banished";
+
   // If eliminated, show the elimination order number in the subtitle (e.g. — eliminated #3)
-  const eliminatedMethod = eliminatedNum > 0 ? ` — eliminated #${escapeHtml(String(eliminatedNum))}` : ''
+  const eliminatedMethod = eliminatedNum > 0 ? ` — ${eliminatedStyle} #${escapeHtml(String(eliminatedNum))}` : ''
 
   const imgTag = `<img src="${imgSrc}" alt="${name}" class="person-img" loading="lazy">`;
 
@@ -152,15 +155,23 @@ const html = `
        3) eliminated: dark gray background and grayscale image; show whether banished/murdered in subtitle
     */
     .status-alive{background:#fff;border:1px solid #e6e6e6;color:inherit}
+
     .status-traitor{background:#7a031b;color:#fff;border:1px solid rgba(0,0,0,0.08)}
     .status-traitor .meta{color:#fff}
     .status-traitor a{color:rgba(255,255,255,0.9)}
     .status-traitor .subtitle{color:#ccc}
+
     .status-eliminated{background:#2f2f2f;color:#ddd;border:1px solid #222}
     .status-eliminated .meta{color:#ddd}
     .status-eliminated .subtitle{color:#bbb}
     /* grayscale the image for eliminated players */
     .status-eliminated .person-img{filter:grayscale(100%);opacity:0.9}
+
+    .status-eliminated-traitor{background:#7a031b;color:#ddd;border:1px solid #222}
+    .status-eliminated-traitor .meta{color:#ddd}
+    .status-eliminated-traitor .subtitle{color:#bbb}
+    /* grayscale the image for eliminated players */
+    .status-eliminated-traitor .person-img{filter:grayscale(100%);opacity:0.9}
 
     .source{margin-top:6px;font-size:13px;color:rgba(0,0,0,0.55)}
     .status-traitor .source{color:rgba(255,255,255,0.85)}
