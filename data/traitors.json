@@ -46,8 +46,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/d/d8/US1_Azra_Valani.webp/revision/latest?cb=20230330074545"
     },
     "is_traitor": false,
-    "eliminated": 0,
-    "murdered": false
+    "eliminated": 5,
+    "murdered": true
   },
   {
     "name": "Brandi Glanville",
@@ -126,7 +126,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/2/2b/US1_Michael_Davidson.webp/revision/latest?cb=20230330074546"
     },
     "is_traitor": false,
-    "eliminated": 0,
+    "eliminated": 6,
     "murdered": false
   },
   {
