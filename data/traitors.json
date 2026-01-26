@@ -116,7 +116,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/9/9b/US1_Kyle_Cooke.webp/revision/latest?cb=20230330074546"
     },
     "is_traitor": false,
-    "eliminated": 0,
+    "eliminated": 8,
     "murdered": false
   },
   {
@@ -176,8 +176,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/7/79/US1_Ryan_Lochte.webp/revision/latest?cb=20230330074547"
     },
     "is_traitor": false,
-    "eliminated": 0,
-    "murdered": false
+    "eliminated": 7,
+    "murdered": true
   },
   {
     "name": "Shelbe Rodriguez",
