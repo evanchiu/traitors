@@ -1,0 +1,255 @@
+[
+  {
+    "name": "Donna Kelce",
+    "background": "NFL Mama",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Donna_Kelce?file=US4_Donna_Kelce.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/6/6a/US4_Donna_Kelce.webp/revision/latest/scale-to-width-down/267?cb=20251121150005"
+    },
+    "is_traitor": false,
+    "eliminated": 4,
+    "murdered": false
+  },
+  {
+    "name": "Candiace Dillard Bassett",
+    "background": "Real Housewives of Potomac",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Candiace_Dillard_Bassett?file=US4_Candiace_Dillard_Bassett.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/0/03/US4_Candiace_Dillard_Bassett.webp/revision/latest/scale-to-width-down/267?cb=20251121102100"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Lisa Rinna",
+    "background": "Real Housewives of Beverly Hills",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Lisa_Rinna?file=US4_Lisa_Rinna.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/4/42/US4_Lisa_Rinna.webp/revision/latest/scale-to-width-down/267?cb=20251121150513"
+    },
+    "is_traitor": false,
+    "eliminated": 11,
+    "murdered": false
+  },
+  {
+    "name": "Rob Rausch",
+    "background": "Love Island",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Rob_Rausch?file=US4_Rob_Rausch.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/3/31/US4_Rob_Rausch.webp/revision/latest/scale-to-width-down/267?cb=20251121150833"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Dorinda Medley",
+    "background": "Real Housewives of New York City",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Dorinda_Medley?file=US4_Dorinda_Medley.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/9/93/US4_Dorinda_Medley.webp/revision/latest/scale-to-width-down/1000?cb=20251121150021"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Colton Underwood",
+    "background": "The Bachelor",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Colton_Underwood?file=US4_Colton_Underwood.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/7/72/US4_Colton_Underwood.webp/revision/latest/scale-to-width-down/1000?cb=20251121150031"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Porsha Williams",
+    "background": "Real Housewives of Atlanta",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Porsha_Williams?file=US4_Porsha_Williams.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/b/b1/US4_Porsha_Williams.webp/revision/latest/scale-to-width-down/267?cb=20251121150806"
+    },
+    "is_traitor": false,
+    "eliminated": 2,
+    "murdered": false
+  },
+  {
+    "name": "Caroline Stanbury",
+    "background": "Real Housewives of Dubai",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Caroline_Stanbury?file=US4_Caroline_Stanbury.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/0/0d/US4_Caroline_Stanbury.webp/revision/latest/scale-to-width-down/1000?cb=20251121102113"
+    },
+    "is_traitor": false,
+    "eliminated": 5,
+    "murdered": true
+  },
+  {
+    "name": "Natalie Anderson",
+    "background": "Survivor, The Amazing Race",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Natalie_Anderson?file=US4_Natalie_Anderson.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/7/72/US4_Natalie_Anderson.webp/revision/latest/scale-to-width-down/267?cb=20251121150751"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Rob Cesternino",
+    "background": "Survivor",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Rob_Cesternino?file=US4_Rob_Cesternino.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/3/3e/US4_Rob_Cesternino.webp/revision/latest/scale-to-width-down/267?cb=20251121150821"
+    },
+    "is_traitor": false,
+    "eliminated": 3,
+    "murdered": true
+  },
+  {
+    "name": "Tiffany Mitchell",
+    "background": "Big Brother, The Challenge",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Tiffany_Mitchell?file=US4_Tiffany_Mitchell.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/6/63/US4_Tiffany_Mitchell.webp/revision/latest/scale-to-width-down/267?cb=20251121150935"
+    },
+    "is_traitor": false,
+    "eliminated": 6,
+    "murdered": false
+  },
+  {
+    "name": "Ian Terry",
+    "background": "Big Brother (winner)",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Ian_Terry?file=US4_Ian_Terry.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/b/b8/US4_Ian_Terry.webp/revision/latest/scale-to-width-down/1000?cb=20251121150420"
+    },
+    "is_traitor": false,
+    "eliminated": 1,
+    "murdered": true
+  },
+  {
+    "name": "Yamil \"Yam Yam\" Arocho",
+    "background": "Survivor (winner)",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Yam_Yam_Arocho?file=US4_Yam_Yam_Arocho.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/8/81/US4_Yam_Yam_Arocho.webp/revision/latest/scale-to-width-down/1000?cb=20251121150947"
+    },
+    "is_traitor": false,
+    "eliminated": 10,
+    "murdered": true
+  },
+  {
+    "name": "Monét X Change",
+    "background": "Drag performer & entertainer",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Mon%C3%A9t_X_Change?file=US4_Mon%C3%A9t_X_Change.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/b/be/US4_Mon%C3%A9t_X_Change.webp/revision/latest/scale-to-width-down/267?cb=20251121150709"
+    },
+    "is_traitor": false,
+    "eliminated": 7,
+    "murdered": true
+  },
+  {
+    "name": "Mark Ballas",
+    "background": "Professional dancer & entertainer",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Mark_Ballas?file=US4_Mark_Ballas.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/4/48/US4_Mark_Ballas.webp/revision/latest/scale-to-width-down/267?cb=20251121150545"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Maura Higgins",
+    "background": "Love Island",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Maura_Higgins?file=US4_Maura_Higgins.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/8/86/US4_Maura_Higgins.webp/revision/latest/scale-to-width-down/267?cb=20251121150637"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Eric Nam",
+    "background": "Singer & songwriter",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Eric_Nam?file=US4_Eric_Nam.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/2/2d/US4_Eric_Nam.webp/revision/latest/scale-to-width-down/267?cb=20251121150350"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Johnny Weir",
+    "background": "Olympic figure skater",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Johnny_Weir?file=US4_Johnny_Weir.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/1/1b/US4_Johnny_Weir.webp/revision/latest/scale-to-width-down/1000?cb=20251121150439"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Kristen Kish",
+    "background": "Chef & TV host",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Kristen_Kish?file=US4_Kristen_Kish.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/d/d2/US4_Kristen_Kish.webp/revision/latest/scale-to-width-down/1000?cb=20251121150458"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Stephen Colletti",
+    "background": "Actor & TV personality",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Stephen_Colletti?file=US4_Stephen_Colletti.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/6/6b/US4_Stephen_Colletti.webp/revision/latest/scale-to-width-down/267?cb=20251121150907"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Michael Rapaport",
+    "background": "Actor & comedian",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Michael_Rapaport?file=US4_Michael_Rapaport.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/c/ce/US4_Michael_Rapaport.webp/revision/latest/scale-to-width-down/267?cb=20251121150653"
+    },
+    "is_traitor": false,
+    "eliminated": 8,
+    "murdered": false
+  },
+  {
+    "name": "Ron Funches",
+    "background": "Actor & comedian",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Ron_Funches?file=US4_Ron_Funches.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/f/fc/US4_Ron_Funches.webp/revision/latest/scale-to-width-down/1000?cb=20251121150850"
+    },
+    "is_traitor": false,
+    "eliminated": 9,
+    "murdered": false
+  },
+  {
+    "name": "Tara Lipinski",
+    "background": "Olympic figure skater",
+    "images": {
+      "wiki_file_page": "https://thetraitors.fandom.com/wiki/Tara_Lipinski?file=US4_Tara_Lipinski.webp",
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/5/54/US4_Tara_Lipinski.webp/revision/latest/scale-to-width-down/1000?cb=20251121150922"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  }
+]
