@@ -179,7 +179,7 @@ const html = `
        2) traitor: deep scarlet background and white text
        3) eliminated: dark gray background and grayscale image; show whether banished/murdered in subtitle
     */
-    .status-alive{background:#fff;border:1px solid #e6e6e6;color:inherit}
+    .status-alive{background:#fff;border:1px solid #e6e6e6;color:#222}
 
     .status-traitor{background:#7a031b;color:#fff;border:1px solid rgba(0,0,0,0.08)}
     .status-traitor .meta{color:#fff}

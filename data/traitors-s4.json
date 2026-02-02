@@ -17,7 +17,7 @@
       "wiki_file_page": "https://thetraitors.fandom.com/wiki/Candiace_Dillard_Bassett?file=US4_Candiace_Dillard_Bassett.webp",
       "large": "https://static.wikia.nocookie.net/thetraitors/images/0/03/US4_Candiace_Dillard_Bassett.webp/revision/latest/scale-to-width-down/267?cb=20251121102100"
     },
-    "is_traitor": false,
+    "is_traitor": true,
     "eliminated": 0,
     "murdered": false
   },
@@ -28,7 +28,7 @@
       "wiki_file_page": "https://thetraitors.fandom.com/wiki/Lisa_Rinna?file=US4_Lisa_Rinna.webp",
       "large": "https://static.wikia.nocookie.net/thetraitors/images/4/42/US4_Lisa_Rinna.webp/revision/latest/scale-to-width-down/267?cb=20251121150513"
     },
-    "is_traitor": false,
+    "is_traitor": true,
     "eliminated": 11,
     "murdered": false
   },
@@ -39,7 +39,7 @@
       "wiki_file_page": "https://thetraitors.fandom.com/wiki/Rob_Rausch?file=US4_Rob_Rausch.webp",
       "large": "https://static.wikia.nocookie.net/thetraitors/images/3/31/US4_Rob_Rausch.webp/revision/latest/scale-to-width-down/267?cb=20251121150833"
     },
-    "is_traitor": false,
+    "is_traitor": true,
     "eliminated": 0,
     "murdered": false
   },

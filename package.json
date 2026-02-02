@@ -2,6 +2,7 @@
   "name": "traitors",
   "version": "0.1.0",
   "description": "Traitors cast status",
+  "license": "UNLICENSED",
   "scripts": {
     "download-images": "node src/download_images.js 1 && node src/download_images.js 4",
     "generate": "node src/generate_season.js 1 && node src/generate_season.js 4 && node src/generate_index.js",
