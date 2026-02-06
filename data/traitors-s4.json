@@ -18,7 +18,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/0/03/US4_Candiace_Dillard_Bassett.webp/revision/latest/scale-to-width-down/267?cb=20251121102100"
     },
     "is_traitor": true,
-    "eliminated": 0,
+    "eliminated": 14,
     "murdered": false
   },
   {
@@ -62,8 +62,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/7/72/US4_Colton_Underwood.webp/revision/latest/scale-to-width-down/1000?cb=20251121150031"
     },
     "is_traitor": false,
-    "eliminated": 0,
-    "murdered": false
+    "eliminated": 12,
+    "murdered": true
   },
   {
     "name": "Porsha Williams",
@@ -182,7 +182,7 @@
       "wiki_file_page": "https://thetraitors.fandom.com/wiki/Eric_Nam?file=US4_Eric_Nam.webp",
       "large": "https://static.wikia.nocookie.net/thetraitors/images/2/2d/US4_Eric_Nam.webp/revision/latest/scale-to-width-down/267?cb=20251121150350"
     },
-    "is_traitor": false,
+    "is_traitor": true,
     "eliminated": 0,
     "murdered": false
   },
