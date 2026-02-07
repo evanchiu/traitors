@@ -35,7 +35,7 @@
     "images": {
       "large": "https://static.wikia.nocookie.net/thetraitors/images/a/a0/US1_Arie_Luyendyk_Jr..webp/revision/latest?cb=20230330074545"
     },
-    "is_traitor": false,
+    "is_traitor": true,
     "eliminated": 0,
     "murdered": false
   },
