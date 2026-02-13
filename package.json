@@ -4,8 +4,8 @@
   "description": "Traitors cast status",
   "license": "UNLICENSED",
   "scripts": {
-    "download-images": "node src/download_images.js 1 && node src/download_images.js 4",
-    "generate": "node src/generate_season.js 1 && node src/generate_season.js 4 && node src/generate_index.js",
+    "download-images": "node src/download_images.js 1 && node src/download_images.js 2 && node src/download_images.js 3 && node src/download_images.js 4",
+    "generate": "node src/generate_season.js 1 && node src/generate_season.js 2 && node src/generate_season.js 3 && node src/generate_season.js 4 && node src/generate_index.js",
     "build": "npm run download-images && npm run generate",
     "serve-dist": "npx serve dist"
   }
