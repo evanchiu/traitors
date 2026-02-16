@@ -1,1 +1,212 @@
-[UPDATE CONTENT]
+[
+  {
+    "name": "Bergie Bergersen",
+    "background": "Love Island",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/7/7d/US2_Bergie_Bergersen.webp/revision/latest?cb=20240106071215"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Chris \"CT\" Tamburello",
+    "background": "The Challenge",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/b/b0/US2_CT_Tamburello.webp/revision/latest?cb=20240106071118"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Dan Gheesling",
+    "background": "Big Brother",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/9/92/US2_Dan_Gheesling.webp/revision/latest?cb=20240106071238"
+    },
+    "is_traitor": true,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Deontay Wilder",
+    "background": "Professional boxer",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/a/a2/US2_Deontay_Wilder.webp/revision/latest?cb=20240106071119"
+    },
+    "is_traitor": false,
+    "eliminated": 5,
+    "murdered": false
+  },
+  {
+    "name": "Ekin-Su Cülcüloğlu",
+    "background": "Love Island UK",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/2/25/US2_Ekin-Su_C%C3%BClc%C3%BClo%C4%9Flu.webp/revision/latest?cb=20240106071311"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Janelle Pierzina",
+    "background": "Big Brother",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/d/d2/US2_Janelle_Pierzina.webp/revision/latest?cb=20240106071336"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "John Bercow",
+    "background": "Speaker of the House of Commons",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/5/59/US2_John_Bercow.webp/revision/latest?cb=20240106071119"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Johnny \"Bananas\" Devenanzio",
+    "background": "The Challenge",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/2/23/US2_Johnny_Bananas.webp/revision/latest?cb=20240106071354"
+    },
+    "is_traitor": false,
+    "eliminated": 1,
+    "murdered": false
+  },
+  {
+    "name": "Kevin Kreider",
+    "background": "Bling Empire",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/2/22/US2_Kevin_Kreider.webp/revision/latest?cb=20240106071408"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Larsa Pippen",
+    "background": "Real Housewives of Miami",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/8/87/US2_Larsa_Pippen.webp/revision/latest?cb=20240106071422"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "MJ Javid",
+    "background": "Shahs of Sunset",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/4/49/US2_MJ_Javid.webp/revision/latest?cb=20240106071451"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Maksim Chmerkovskiy",
+    "background": "Dancing with the Stars",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/1/1c/US2_Maks_Chmerkovskiy.webp/revision/latest?cb=20240106071119"
+    },
+    "is_traitor": false,
+    "eliminated": 4,
+    "murdered": false
+  },
+  {
+    "name": "Marcus Jordan",
+    "background": "Fashion entrepreneur",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/9/91/US2_Marcus_Jordan.webp/revision/latest?cb=20240106071437"
+    },
+    "is_traitor": false,
+    "eliminated": 3,
+    "murdered": false
+  },
+  {
+    "name": "Parvati Shallow",
+    "background": "Survivor",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/3/33/US2_Parvati_Shallow.webp/revision/latest?cb=20240106071504"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Peppermint",
+    "background": "RuPaul's Drag Race",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/0/08/US2_Peppermint.webp/revision/latest?cb=20240106071516"
+    },
+    "is_traitor": false,
+    "eliminated": 2,
+    "murdered": false
+  },
+  {
+    "name": "Peter Weber",
+    "background": "The Bachelor",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/0/03/US2_Peter_Weber.webp/revision/latest?cb=20240106071528"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Phaedra Parks",
+    "background": "Real Housewives of Atlanta",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/4/4b/US2_Phaedra_Parks.webp/revision/latest?cb=20240106071119"
+    },
+    "is_traitor": true,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Sandra Diaz-Twine",
+    "background": "Survivor",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/4/45/US2_Sandra_Diaz-Twine.webp/revision/latest?cb=20240106071541"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Shereé Whitfield",
+    "background": "Real Housewives of Atlanta",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/1/16/US2_Shere%C3%A9_Whitfield.webp/revision/latest?cb=20240106071551"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Tamra Judge",
+    "background": "Real Housewives of Orange County",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/d/d9/US2_Tamra_Judge.webp/revision/latest?cb=20240106071602"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  },
+  {
+    "name": "Trishelle Cannatella",
+    "background": "The Challenge",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/f/fc/US2_Trishelle_Cannatella.webp/revision/latest?cb=20240106071614"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
+    "murdered": false
+  }
+]
