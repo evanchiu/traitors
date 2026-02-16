@@ -51,8 +51,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/9/93/US4_Dorinda_Medley.webp/revision/latest/scale-to-width-down/1000?cb=20251121150021"
     },
     "is_traitor": false,
-    "eliminated": 0,
-    "murdered": false
+    "eliminated": 15,
+    "murdered": true
   },
   {
     "name": "Colton Underwood",
@@ -216,7 +216,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/6/6b/US4_Stephen_Colletti.webp/revision/latest/scale-to-width-down/267?cb=20251121150907"
     },
     "is_traitor": false,
-    "eliminated": 0,
+    "eliminated": 16,
     "murdered": false
   },
   {

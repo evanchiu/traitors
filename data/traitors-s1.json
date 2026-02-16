@@ -36,7 +36,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/a/a0/US1_Arie_Luyendyk_Jr..webp/revision/latest?cb=20230330074545"
     },
     "is_traitor": true,
-    "eliminated": 0,
+    "eliminated": 16,
     "murdered": false
   },
   {
@@ -66,7 +66,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/d/df/US1_Christian_de_la_Torre.webp/revision/latest?cb=20230330074546"
     },
     "is_traitor": true,
-    "eliminated": 0,
+    "eliminated": 14,
     "murdered": false
   },
   {
@@ -106,7 +106,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/9/95/US2_Kate_Chastain.webp/revision/latest?cb=20240115000602"
     },
     "is_traitor": false,
-    "eliminated": 0,
+    "eliminated": 15,
     "murdered": false
   },
   {
@@ -196,7 +196,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/4/46/US1_Stephenie_LaGrossa_Kendrick.webp/revision/latest?cb=20230330074546"
     },
     "is_traitor": false,
-    "eliminated": 0,
-    "murdered": false
+    "eliminated": 14,
+    "murdered": true
   }
 ]
