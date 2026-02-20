@@ -56,7 +56,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/d/d2/US2_Janelle_Pierzina.webp/revision/latest?cb=20240106071336"
     },
     "is_traitor": false,
-    "eliminated": 8,
+    "eliminated": 9,
     "murdered": false
   },
   {
@@ -206,8 +206,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/d/d9/US2_Tamra_Judge.webp/revision/latest?cb=20240106071602"
     },
     "is_traitor": false,
-    "eliminated": 0,
-    "murdered": false
+    "eliminated": 8,
+    "murdered": true
   },
   {
     "name": "Trishelle Cannatella",
