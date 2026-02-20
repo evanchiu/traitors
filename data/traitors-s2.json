@@ -56,7 +56,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/d/d2/US2_Janelle_Pierzina.webp/revision/latest?cb=20240106071336"
     },
     "is_traitor": false,
-    "eliminated": 0,
+    "eliminated": 8,
     "murdered": false
   },
   {
@@ -77,6 +77,16 @@
     },
     "is_traitor": false,
     "eliminated": 1,
+    "murdered": false
+  },
+  {
+    "name": "Kate Chastain",
+    "background": "Below Deck",
+    "images": {
+      "large": "https://static.wikia.nocookie.net/thetraitors/images/9/95/US2_Kate_Chastain.webp/revision/latest?cb=20240115000602"
+    },
+    "is_traitor": false,
+    "eliminated": 0,
     "murdered": false
   },
   {

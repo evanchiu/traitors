@@ -95,7 +95,7 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/7/72/US4_Natalie_Anderson.webp/revision/latest/scale-to-width-down/267?cb=20251121150751"
     },
     "is_traitor": false,
-    "eliminated": 0,
+    "eliminated": 18,
     "murdered": false
   },
   {
@@ -205,8 +205,8 @@
       "large": "https://static.wikia.nocookie.net/thetraitors/images/d/d2/US4_Kristen_Kish.webp/revision/latest/scale-to-width-down/1000?cb=20251121150458"
     },
     "is_traitor": false,
-    "eliminated": 0,
-    "murdered": false
+    "eliminated": 17,
+    "murdered": true
   },
   {
     "name": "Stephen Colletti",
